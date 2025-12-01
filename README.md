@@ -1,1 +1,1 @@
-# Default-Prediction-using SVM Algorithm
+# Default Prediction using SVM Algorithm
