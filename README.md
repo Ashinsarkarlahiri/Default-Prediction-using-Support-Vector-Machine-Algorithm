@@ -1,1 +1,1 @@
-# Default-Prediction-using-Support-Vector-Machine-Algorithm
+# Default-Prediction-using SVM Algorithm
